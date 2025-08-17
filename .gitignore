@@ -196,7 +196,8 @@ public/
 
 *.db
 
-#data/
+# Исключаем каталог data полностью
+data/
 
 # Logs
 logs/
@@ -205,5 +206,5 @@ logs/
 models/
 results/
 
-data/*
+# Исключаем parquet файлы
 *.parquet
