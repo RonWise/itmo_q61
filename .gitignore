@@ -197,7 +197,7 @@ public/
 *.db
 
 # Исключаем каталог data полностью
-data/
+#data/
 
 # Logs
 logs/
